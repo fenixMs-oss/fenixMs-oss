@@ -1,4 +1,4 @@
-Meu nome é Matheus de Françoso.
+Meu nome é Matheus Françoso.
 Estou estudando no Alura.
 Estou aprendendo linguagem JavaScript.
 Utilizo esse espaço para organizar projetos escolares. 
